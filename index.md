@@ -47,4 +47,6 @@ Formally, let $$\{R_1, R_2, \dots R_n\}$$ be the ratings of the players particip
 $$R'_i = R_i + K((1 - \frac{p_i-1}{n-1}) - \frac{1}{1 + 10^{(\frac{1}{n-1}\sum_{r \in \{R_1, R_2, \dots, R_{i-1}, R_{i+1}, \dots, R_n\}}-R_i)/400}})$$
 
 ### Constitution
-[Constitution]({% link constitution.md %})
+* [Constitution]({% link constitution.md %})
+* [Laws]({% link laws.md %})
+
