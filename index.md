@@ -22,7 +22,7 @@
 
 ### Hearts rating
 
-|Matchday|Date|Game|Rounds|I|R|GL|K|J|
+|Matchday|Date|Rounds|I|R|GL|K|J|
 |-
 |1|November 3|7|1535|1488|1465|1512|1500|
 |2|November 6|2|1535|1478|1463|1515|1510|
