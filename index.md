@@ -1,3 +1,5 @@
+[Constitution]({% link constitution.md %}) – [Laws]({% link laws.md %}){: style="text-align: center"}
+
 ## Welcome to Card Games
 
 ### Overall rating
