@@ -43,6 +43,9 @@ Tribunal rulings shall follow proper process. All Tribunal meetings shall last a
 ## Article 11
 Laws may be passed by a majority of at least two-thirds of the membership. The Grand Leader may unilateraly pass laws as long as the Grand Leader has all of the powers required.
 
+## Article 12
+The Grand Leader is not subject to any regulations of CARDS.
+
 ## Amendment process
 This document may only be amended by more than three-fourths of the total membership. Articles 1 and 2 may not be amended or nullified without the agreement of the Grand Leader.
 
