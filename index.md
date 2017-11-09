@@ -17,7 +17,7 @@
 |3|November 8|Hearts|6|4|2|1|3|-|
 
 ### Rating calculation
-Each player starts with a rating of 1500. We use the Elo system of card game rating. Basically, we take the mean rating $$M$$ of all players participating in the game, and for each player, their score is, based on their placing in the game $$p$$ and the number of players $$n$$:
+Each player starts with a rating of 1500. We use the Elo system of card game rating. Basically, we take the mean rating $$M$$ of all players other than the player being rated participating in the game, and for each player, their score is, based on their placing in the game $$p$$ and the number of players $$n$$:
 
 $$S = 1 - \frac{p-1}{n-1}$$
 
@@ -26,3 +26,8 @@ Let $$R'$$ be the new rating and $$R$$ be the old rating. Then,
 $$R' = R + K(S - \frac{1}{1 + 10^{(M-R)/400}})$$
 
 where $$K = 10 \times \text{number of rounds}$$.
+
+### Formal description
+Formally, let $$\{R_1, R_2, \dots R_n\}$$ be the ratings of the players participating, $K = 10 \times \text{number of rounds}$$, and $$\{p_1, p_2, \dots, p_n\}$$ be the placings of the players. Then, to update the ratings to the new rating $$\{R'_1, R'_2, \dots, R'_n\}$$
+
+$$R'_i = R_i + K((1 - \frac{p_i-1}{n-1}) - \frac{1}{1 + 10^{(\frac{1}{n-1}\sum_{r \in \{R_1, R_2, \dots, R_{i-1}, R_{i+1}, \dots, R_n\}}-R_i)/400}})$$
