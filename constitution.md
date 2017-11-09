@@ -40,4 +40,4 @@ Tribunal rulings shall follow proper process. All Tribunal meetings shall last a
 ## Amendment process
 This document may only be amended by three-fourths of the total membership. Articles 1 and 2 may not be amended or nullified without the agreement of the Grand Leader.
 
-*Signed November 9 by decree of the Grand Leader and hereby ratified per precedent.*
+*Signed November 9, 2017 by decree of the Grand Leader and hereby ratified per precedent.*
