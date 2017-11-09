@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Card Games
 
-You can use the [editor on GitHub](https://github.com/cardsorg/cardsorg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. $$x = \frac{1}{2}$$
+### The Elo rating system
+The Elo rating system rates players based on previous skill shown in games. Every player starts with a rating, which we will call $R_I$. Let $R_A$ be your rating and $R_B$ be the opponent's rating. Then, $$E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}$$ and $$E_B = 1 - E_A$$.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cardsorg/cardsorg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To update a rating, let $S$ be the score of the player with rating $R_A$. Set a volatility coefficient $K$. Then, $$R_A = R_A + K(S-E_A)$$ and $$R_B = R_B - K(S-E_A)$$.
