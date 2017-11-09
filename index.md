@@ -21,6 +21,7 @@
 
 
 ### Hearts rating
+This rating only counts Hearts games.
 
 |Matchday|Date|Rounds|I|R|GL|K|J|
 |-
