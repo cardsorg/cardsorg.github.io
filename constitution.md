@@ -10,10 +10,10 @@ layout: default
 The Grand Leader shall possess the ability to appoint and expel members, control gameplay, control property owned by CARDS, pass orders, and give the right to use their powers to other members. The Grand Leader shall hold their office indefinitely. The Grand Leader shall only be chosen again if the current Grand Leader resigns or is unable to exercise their powers.
 
 ## Article 2
-If a Grand Leader needs to be chosen, an election shall be held. Any member may run for Grand Leader within 14 days before the election. On the day of the election, every member may cast a vote for one or more candidates. The candidates with the most votes becomes Grand Leader. In the case the vote is drawn, the member with the longest membership in CARDS shall become Grand Leader. If all candidates joined CARDS the same day, then the member regardless of candidacy with the longest membership who accepts the role shall become Grand Leader.
+If a Grand Leader needs to be chosen, an election shall be held. Any member may run for Grand Leader within 14 days before the election. On the day of the election, every member may cast a vote for one or more candidates. The candidates with the most votes becomes Grand Leader. In the case the vote is drawn, the candidate with the longest membership in CARDS shall become Grand Leader. If all candidates joined CARDS the same day, then the member regardless of candidacy with the longest membership who accepts the role shall become Grand Leader.
 
 ## Article 3
-All CARDS laws shall apply without discrimination on any basis.
+All CARDS laws and orders shall apply without discrimination on any basis.
 
 ## Article 4
 The Grand Leader has the sole ability to appoint members. The Grand Leader may expel members with a majority of at least two-thirds of the membership. Members may also be expelled under the formal expulsion process. Any member may nominate another member for expulsion with at least one signatory. After 7 days, a vote shall be held. A three-fourths majority of at least two-thirds of the membership is required for expulsion.
