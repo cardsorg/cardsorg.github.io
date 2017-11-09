@@ -1,4 +1,5 @@
-[Constitution]({% link constitution.md %}) – [Laws]({% link laws.md %}){: style="text-align: center"}
+[Constitution]({% link constitution.md %}) – [Laws]({% link laws.md %})
+{: style="text-align: center; font-size:1.5em"}
 
 ## Welcome to Card Games
 
