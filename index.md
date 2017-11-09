@@ -21,9 +21,9 @@
 
 |Matchday|Date|Game|Rounds|I|R|GL|K|J|
 |-
-|1|November 3|Hearts|7|1535|1488|1465|1512|1500|
-|2|November 6|Hearts|2|1535|1478|1463|1515|1510|
-|3|November 8|Hearts|6|1501|1490|1497|1503|1510|
+|1|November 3|7|1535|1488|1465|1512|1500|
+|2|November 6|2|1535|1478|1463|1515|1510|
+|3|November 8|6|1501|1490|1497|1503|1510|
 
 ### Rating calculation
 Each player starts with a rating of 1500. We use the Elo system of card game rating. Basically, we take the mean rating $$M$$ of all players other than the player being rated participating in the game, and for each player, their score is, based on their placing in the game $$p$$ and the number of players $$n$$:
