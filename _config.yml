@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Card Games
 show_downloads: false
+markdown: kramdown
