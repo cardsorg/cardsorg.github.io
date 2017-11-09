@@ -9,6 +9,7 @@
 |3|November 8|6|Hearts|1508|1486|1488|1508|1510|
 
 ### Results
+
 |Matchday|Date|Game|Rounds|I|R|GL|K|J|
 |-
 |1|November 3|7|Hearts|1|3|4|2|-|
