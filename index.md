@@ -1,6 +1,6 @@
 ## Welcome to Card Games
 
-### Overall rating table
+### Overall rating
 
 |Matchday|Date|Game|Rounds|I|R|GL|K|J|
 |-
