@@ -38,4 +38,6 @@ The CARDS Tribunal handles cases regarding the application of the laws of CARDS 
 Tribunal rulings shall follow proper process. All Tribunal meetings shall last at least 7 days. All parties shall have the right to speak fairly. All parties are entitled to equal consideration without discrimination. Internal procedure may be established provided that they do not infringe the right to equal consideration.
 
 ## Amendment process
-This document may be amended by three-fourths of the total membership.
+This document may only be amended by three-fourths of the total membership. Articles 1 and 2 may not be amended or nullified without the agreement of the Grand Leader.
+
+*Signed November 9 by decree of the Grand Leader and hereby ratified per precedent.*
