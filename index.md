@@ -24,4 +24,4 @@ Let $$R'$$ be the new rating and $$R$$ be the old rating. Then,
 
 $$R' = R + K(S - \frac{1}{1 + 10^{(M-R)/400}})$$
 
-where $$K = 10 \times \mathrm{number of rounds}$$.
+where $$K = 10 \times \text{number of rounds}$$.
