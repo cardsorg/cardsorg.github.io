@@ -38,7 +38,7 @@ The CARDS Tribunal handles cases regarding the application of the laws of CARDS 
 * Expulsion from CARDS.
 
 ## Article 10
-Tribunal rulings shall follow proper process. All Tribunal meetings shall last at least 7 days. All parties shall have the right to speak fairly. All parties are entitled to equal consideration without discrimination. Internal procedure may be established provided that it do not infringe the right to equal consideration. A Tribunal sanction may be applied by a majority of the Tribunal, except for bans of more than 4 weeks and expulsion, which require two-thirds of the Tribunal.
+Tribunal rulings shall follow proper process. All Tribunal meetings shall last at least 7 days. All parties shall have the right to speak fairly. All parties are entitled to equal consideration without discrimination. Internal procedure may be established provided that it does not infringe the right to equal consideration. A Tribunal sanction may be applied by a majority of the Tribunal, except for bans of more than 4 weeks and expulsion, which require two-thirds of the Tribunal.
 
 ## Article 11
 Laws may be passed by a majority of at least two-thirds of the membership. The Grand Leader may unilateraly pass orders as long as the Grand Leader has all of the powers required. Laws and orders have equal standing. If provision(s) in two or more laws or orders contradict each other, than the provision(s) in the newer one take precedence.
