@@ -16,7 +16,7 @@ If a Grand Leader needs to be chosen, an election shall be held. Any member may 
 All CARDS laws and orders shall apply without discrimination on any basis.
 
 ## Article 4
-The Grand Leader has the sole ability to appoint members. The Grand Leader may expel members with a majority of at least two-thirds of the membership. Members may also be expelled under the formal expulsion process. Any member may nominate another member for expulsion with at least one signatory. After 7 days, a vote shall be held. A three-fourths majority of at least two-thirds of the membership is required for expulsion.
+The Grand Leader has the sole ability to appoint members. The Grand Leader may expel members. Members may also be expelled under the formal expulsion process. Any member may nominate another member for expulsion with at least one signatory. After 7 days, a vote shall be held. A three-fourths majority of at least two-thirds of the membership is required for expulsion.
 
 ## Article 5
 The Grand Leader may appoint provisional and plenary members. Provisional members have the privilege, but not the right, to participate in games. Provisional members may not exercise any other rights. Plenary members have the full rights of CARDS.
