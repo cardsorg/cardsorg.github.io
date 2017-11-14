@@ -8,7 +8,7 @@
 |2|November 6|Hearts|2|1535|1478|1463|1515|1510|
 |3|November 8|Hearts|6|1501|1490|1497|1503|1510|
 |4|November 9|Hearts|7|1489|1503|1462|1503|1544|
-|5|November 10|Hearts|4|1496|1483|1485|1503|1521|
+|5|November 10|Hearts|4|1496|1483|1485|1503|1534|
 
 ### Results
 
@@ -18,7 +18,7 @@
 |2|November 6|Hearts|2|-|4|3|2|1|
 |3|November 8|Hearts|6|4|2|1|3|-|
 |4|November 9|Hearts|7|3|2|4|-|1|
-|5|November 10|Hearts|4|2|3|1|-|3|
+|5|November 10|Hearts|4|2|4(3)|1|-|3|
 
 
 ### Hearts rating
@@ -30,7 +30,7 @@ This rating only counts Hearts games.
 |2|November 6|2|1535|1478|1463|1515|1510|
 |3|November 8|6|1501|1490|1497|1503|1510|
 |4|November 9|7|1489|1503|1462|1503|1544|
-|5|November 10|4|1496|1483|1485|1503|1521|
+|5|November 10|4|1496|1483|1485|1503|1534|
 
 
 ### Rating calculation
