@@ -9,6 +9,7 @@
 |3|November 8|Hearts|6|1501|1490|1497|1503|1510|
 |4|November 9|Hearts|7|1489|1503|1462|1503|1544|
 |5|November 10|Hearts|4|1496|1483|1485|1503|1534|
+|6|November 15|Hearts|1521|1492|1461|1494|1534|
 
 ### Results
 
@@ -31,7 +32,10 @@ This rating only counts Hearts games.
 |3|November 8|6|1501|1490|1497|1503|1510|
 |4|November 9|7|1489|1503|1462|1503|1544|
 |5|November 10|4|1496|1483|1485|1503|1534|
+|6|November 15|5|1521|1492|1461|1494|1534|
 
+### Trading card game rating
+We will establish a rating that applies to trading card games like Magic: The Gathering and Pokemon. This is not part of the official rating.
 
 ### Rating calculation
 Each player starts with a rating of 1500. We use the Elo system of card game rating. Basically, we take the mean rating $$M$$ of all players other than the player being rated participating in the game, and for each player, their score is, based on their placing in the game $$p$$ and the number of players $$n$$:
