@@ -20,7 +20,7 @@
 |3|November 8|Hearts|6|4|2|1|3|-|
 |4|November 9|Hearts|7|3|2|4|-|1|
 |5|November 10|Hearts|4|2|4(3)|1|-|3|
-|6|November 15|Hearts|1|2|4|3|-|
+|6|November 15|Hearts|5|1|2|4|3|-|
 
 
 
