@@ -20,3 +20,6 @@ All cards made out of cellulose acetate shall be disinfected with these approved
 * A solution of 200 parts dihydrogen oxide and between 1 and 2 parts sodium hypochlorite.
 
 All cards must be disinfected after any incidents which may pose a health hazard to CARDS members.
+
+## Order 4. Grand Grand Leader.
+The Grand Grand Leader is an honorary title bestowed to those who have made the most or greatest contribution to the comedic amusement of members.
