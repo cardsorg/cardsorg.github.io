@@ -10,6 +10,7 @@
 |4|November 9|Hearts|7|1489|1503|1462|1503|1544|
 |5|November 10|Hearts|4|1496|1483|1485|1503|1534|
 |6|November 15|Hearts|5|1521|1492|1461|1494|1534|
+|7|November 22|Hearts|5|1493|1500|1456|1519|1534|
 
 ### Results
 
@@ -21,6 +22,7 @@
 |4|November 9|Hearts|7|3|2|4|-|1|
 |5|November 10|Hearts|4|2|4(3)|1|-|3|
 |6|November 15|Hearts|5|1|2|4|3|-|
+|7|November 22|Hearts|5|4|2|3|1|-|
 
 
 
@@ -35,6 +37,7 @@ This rating only counts Hearts games.
 |4|November 9|7|1489|1503|1462|1503|1544|
 |5|November 10|4|1496|1483|1485|1503|1534|
 |6|November 15|5|1521|1492|1461|1494|1534|
+|7|November 22|5|1493|1500|1456|1519|1534|
 
 ### Trading card game rating
 We will establish a rating that applies to trading card games like Magic: The Gathering and Pokemon. This is not part of the official rating.
