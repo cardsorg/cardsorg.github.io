@@ -2,9 +2,9 @@
 
 ### Overall rating
 
-|Updated|I|R|GL|K|J|
+|Matchday|Updated|I|R|GL|K|J|
 |-
-|November 22|1419|1409|1342|1511|1661|
+|8|November 22|1419|1409|1342|1511|1661|
 
 ### Results
 
