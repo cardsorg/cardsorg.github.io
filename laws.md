@@ -23,3 +23,6 @@ All cards must be disinfected after any incidents which may pose a health hazard
 
 ## Order 4. Grand Grand Leader.
 The Grand Grand Leader is an honorary title bestowed to those who have made the most or greatest contribution to the comedic amusement of members.
+
+## Order 5. On inactivity and miscellaneous issues.
+Any member inactive for more than 10 matchdays will be removed from the list until they play at least 2 consecutive matchdays. Also, CARDS time isn't the time to savor Internet sensations.
