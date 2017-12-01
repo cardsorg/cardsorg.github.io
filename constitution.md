@@ -50,3 +50,37 @@ The Grand Leader is not subject to any regulations of CARDS.
 This document may only be amended by a three-fourths majority of the total membership. Articles 1 and 2 may not be amended or nullified without the agreement of the Grand Leader.
 
 *Signed November 9, 2017 by decree of the Grand Leader and hereby ratified per precedent. Constitution shall take effect November 10, 2017 at midnight.*
+
+## The anthem of CARDS
+
+Una volta che ti sei,
+iscritto, deciderai,
+se schiacciare al bridge,
+o se offrire quattro,
+picche per quattro prese
+
+Il centro di tutte,
+sono le carte, rispetterete,
+i suoi valori sostenuti,
+dal grande leader
+
+Sguardo verso le stelle,
+Lo saprai alla fine,
+il club era diviso,
+il club era in pericolo
+
+Ma un giorno lo saprai,
+tutto il club sarà unito,
+un rinascimento di uno,
+e unico grande leader
+
+Abbiamo una ricca storia,
+dall'acquisto di carte di plastica,
+alla nascita di sam nei cuori,
+alla caduta di akabane al bridge
+
+Una volta che ti sei,
+iscritto, deciderai,
+se schiacciare al bridge,
+o se offrire quattro,
+picche per quattro prese
