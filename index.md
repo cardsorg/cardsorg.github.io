@@ -6,6 +6,7 @@
 |-
 |9|December 4|1275|1496|1409|1472|1661|
 
+![Rating graph]({{ "rate.svg" | absolute_url }})
 ### Results
 
 |Matchday|Date|Game|Rounds|I|R|GL|K|J|
