@@ -4,7 +4,7 @@
 
 |Matchday|Updated|I|R|GL|K|J|
 |-
-|8|November 27|1336|1432|1434|1438|1661|
+|9|December 4|1275|1496|1409|1472|1661|
 
 ### Results
 
@@ -18,6 +18,7 @@
 |6|November 15|Hearts|5|1|2|4|3|-|
 |7|November 22|Hearts|5|4|2|3|1|-|
 |8|November 27|Hearts|7|4|2|1|3|-|
+|9|December 4|Hearts|4|4|1|3|2|-|
 
 
 ### Trading card game rating
