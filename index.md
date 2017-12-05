@@ -30,6 +30,5 @@ Ratings use the TrueSkill(TM) system, the same system used in Xbox matchmaking f
 
 ### Links
 * [Constitution]({% link constitution.md %})
-* [En español]({% link index-es.md %})
 * [Laws]({% link laws.md %})
 
