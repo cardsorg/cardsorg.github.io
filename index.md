@@ -26,7 +26,7 @@
 We will establish a rating that applies to trading card games like Magic: The Gathering and Pokemon. This is not part of the official rating.
 
 ### Rating calculation
-Ratings use the TrueSkill(TM) system, the same system used in Xbox matchmaking for Microsoft games. Since this is non-commercial, Microsoft permits its use (https://twitter.com/msftresearch/status/504705133901402112).
+Ratings use the TrueSkill(TM) system, the same system used in Xbox matchmaking for Microsoft games. Since this is non-commercial, [Microsoft permits its use](https://twitter.com/msftresearch/status/504705133901402112).
 
 ### Links
 * [Constitution]({% link constitution.md %})
