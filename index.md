@@ -4,7 +4,7 @@
 
 |Matchday|Updated|I|R|GL|K|J|
 |-
-|9|December 4|1275|1496|1409|1472|1661|
+|9|December 4|1275|1496|1409|1472|1661*|
 
 ![Rating graph]({{ "rate.svg" | absolute_url }}){:width="80%"}
 ### Results
@@ -32,3 +32,5 @@ Ratings use the TrueSkill(TM) system, the same system used in Xbox matchmaking f
 * [Constitution]({% link constitution.md %})
 * [Laws]({% link laws.md %})
 
+## Footnotes
+*Inactive rating. See order 6.
