@@ -25,4 +25,10 @@ All cards must be disinfected after any incidents which may pose a health hazard
 The Grand Grand Leader is an honorary title bestowed to those who have made the most or greatest contribution to the comedic amusement of members.
 
 ## Order 5. On inactivity and miscellaneous issues.
-Any member inactive for more than 5 matchdays will be removed from the list until they play at least 2 consecutive matchdays. Also, CARDS time isn't the time to savor Internet sensations.
+<s>Any member inactive for more than 5 matchdays will be removed from the list until they play at least 2 consecutive matchdays. Also, CARDS time isn't the time to savor Internet sensations.</s> Repealed by order 6.
+
+## Order 6. Amendment to order 5.
+The Grand Leader concedes that many cannot let go of their personal digital assistants, so the second paragraph of Order 5 is repealed. Also, to discourage idle membership and membership for convenience,
+
+* Members who do not participate for more than 21 days or 5 consecutive matchdays will be removed from the rating list.
+* Provisional members who do not participate for more than 42 days or 10 consecutive matchdays will need to apply for membership again.
