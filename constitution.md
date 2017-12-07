@@ -5,7 +5,6 @@ layout: default
 # Constitution of CARDS
 
 ---
-{:style="font-family: Georgia, Palatino"}
 ## Article 1
 The Grand Leader shall possess the ability to appoint and expel members, control gameplay, control property owned by CARDS, pass orders, and give the right to use their powers to other members. The Grand Leader shall hold their office indefinitely. The Grand Leader shall only be chosen again if the current Grand Leader resigns or is unable to exercise their powers.
 
