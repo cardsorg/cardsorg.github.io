@@ -81,4 +81,4 @@ Una volta che ti sei,
 iscritto, deciderai,
 se schiacciare al bridge,
 o se offrire quattro,
-picche per quattro prese
+picche per quattro picche
