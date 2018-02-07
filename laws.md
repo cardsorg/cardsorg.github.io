@@ -32,3 +32,7 @@ The Grand Leader concedes that many cannot let go of their personal digital assi
 
 * Members who do not participate for more than 21 days or 5 consecutive matchdays will be removed from the rating list.
 * Provisional members who do not participate for more than 42 days or 10 consecutive matchdays will need to apply for membership again.
+
+## Order 7. Addiction to mobile games.
+1. A "mobile game" is any activity involving a objective over the natural, rational, or real numbers whose participants partake in the activity on a personal digital assistant of breadth one-third cubits and width one-fourth cubits.
+2. Any member who participates in a mobile game for more than twenty-hours by the twice establishment of the constellation system containing Polaris shall be suspended.
