@@ -2,10 +2,16 @@
 title: Constitution
 layout: default
 ---
+
+<style type="text/css">
+  p {
+    font-family: Georgia;
+  }
+</style>
+
 # Constitution of CARDS
 
 ---
-<div style="font-family:Georgia">
 ## Article 1
 The Grand Leader shall possess the ability to appoint and expel members, control gameplay, control property owned by CARDS, pass orders, and give the right to use their powers to other members. The Grand Leader shall hold their office indefinitely. The Grand Leader shall only be chosen again if the current Grand Leader resigns or is unable to exercise their powers.
 
@@ -50,7 +56,6 @@ The Grand Leader is not subject to any regulations of CARDS.
 This document may only be amended by a three-fourths majority of the total membership. Articles 1 and 2 may not be amended or nullified without the agreement of the Grand Leader.
 
 *Signed November 9, 2017 by decree of the Grand Leader and hereby ratified per precedent. Constitution shall take effect November 10, 2017 at midnight.*
-</div>
 ## The anthem of CARDS
 Una volta che ti sei,
 iscritto, deciderai,
