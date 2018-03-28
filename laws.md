@@ -36,3 +36,6 @@ The Grand Leader concedes that many cannot let go of their personal digital assi
 ## Order 7. Addiction to mobile games.
 1. A "mobile game" is any activity involving a objective over the natural, rational, or real numbers whose participants partake in the activity on a personal digital assistant of breadth one-third cubits and width one-fourth cubits.
 2. Any member who participates in a mobile game for more than twenty-hours by the twice establishment of the constellation system containing Polaris shall be suspended.
+
+## Order 8. On hononyms of "fortnight"
+To preserve the intellectual and artistic heritage of the English language, we mandate all members to use the word "fortnight" and all words with the same phonemes to refer to a time period of 14 days.
